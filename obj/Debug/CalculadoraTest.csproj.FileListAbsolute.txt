@@ -22,8 +22,5 @@ D:\Ambiente teste\CalculadoraTest\bin\Debug\Winium.Cruciatus.dll
 D:\Ambiente teste\CalculadoraTest\bin\Debug\NLog.xml
 D:\Ambiente teste\CalculadoraTest\bin\Debug\WindowsInput.xml
 D:\Ambiente teste\CalculadoraTest\bin\Debug\Winium.Cruciatus.xml
-D:\Ambiente teste\CalculadoraTest\bin\Debug\AutoFixture.dll
 D:\Ambiente teste\CalculadoraTest\bin\Debug\Fare.dll
-D:\Ambiente teste\CalculadoraTest\bin\Debug\AutoFixture.pdb
-D:\Ambiente teste\CalculadoraTest\bin\Debug\AutoFixture.xml
 D:\Ambiente teste\CalculadoraTest\bin\Debug\Fare.xml

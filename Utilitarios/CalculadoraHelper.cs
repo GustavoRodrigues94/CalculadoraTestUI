@@ -31,6 +31,7 @@ namespace CalculadoraTest.Utilitarios
             WiniumDriverService?.Dispose();
             WiniumDriver?.Quit();
             WiniumDriver = null;
+            WiniumDriverService = null;
         }
 
         public static void ClicarNoBotaoNumero(NumeroCalculadoraEnum numeroParaClicar)
