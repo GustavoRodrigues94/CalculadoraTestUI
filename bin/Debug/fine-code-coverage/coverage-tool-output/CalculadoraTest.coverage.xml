@@ -2,10 +2,10 @@
 <CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.7.922.0">
   <Summary numSequencePoints="68" visitedSequencePoints="64" numBranchPoints="34" visitedBranchPoints="22" sequenceCoverage="94.12" branchCoverage="64.71" maxCyclomaticComplexity="5" minCyclomaticComplexity="1" maxCrapScore="5.02" minCrapScore="1" visitedClasses="3" numClasses="3" visitedMethods="10" numMethods="10" />
   <Modules>
-    <Module hash="5E-C0-13-2B-BD-5A-4A-C2-F5-CD-0F-6F-0B-FA-3F-64-C2-39-8F-DB">
+    <Module hash="6B-25-EA-40-72-94-16-61-96-22-A7-5E-DA-00-D5-2B-C2-3F-D8-07">
       <Summary numSequencePoints="68" visitedSequencePoints="64" numBranchPoints="34" visitedBranchPoints="22" sequenceCoverage="94.12" branchCoverage="64.71" maxCyclomaticComplexity="5" minCyclomaticComplexity="1" maxCrapScore="5.02" minCrapScore="1" visitedClasses="3" numClasses="3" visitedMethods="10" numMethods="10" />
       <ModulePath>D:\Ambiente teste\CalculadoraTest\bin\Debug\fine-code-coverage\build-output\CalculadoraTest.dll</ModulePath>
-      <ModuleTime>2022-02-13T18:38:47.4178993Z</ModuleTime>
+      <ModuleTime>2022-02-13T18:41:24.7427621Z</ModuleTime>
       <ModuleName>CalculadoraTest</ModuleName>
       <Files>
         <File uid="1" fullPath="D:\Ambiente teste\CalculadoraTest\CalculadoraTest.cs" />
