@@ -19,7 +19,6 @@ namespace CalculadoraTest.Utilitarios
             Thread.Sleep(450);
         }
 
-
         public static void FecharCalculadora()
         {
             var btnFechar = WiniumDriver.FindElementById("Close");
@@ -64,6 +63,25 @@ namespace CalculadoraTest.Utilitarios
 
             var valorVisor = visor.GetAttribute("Name").Replace("A exibição é ", "");
             return Convert.ToInt32(valorVisor);
+        }
+
+        public static OperadorCalculadoraEnum ObterOperadorEnum(string operadorEscolhido)
+        {
+            switch (operadorEscolhido)
+            {
+                case "*":
+                    return OperadorCalculadoraEnum.Multiplicar;
+                case "/":
+                    return OperadorCalculadoraEnum.Dividir;
+                case "+":
+                    return OperadorCalculadoraEnum.Mais;
+                case "-":
+                    return OperadorCalculadoraEnum.Menos;
+                case "=":
+                    return OperadorCalculadoraEnum.Igual;
+                default:
+                    return OperadorCalculadoraEnum.Igual;
+            }
         }
     }
 }

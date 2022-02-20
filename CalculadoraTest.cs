@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CalculadoraTest
 {
-    [TestClass]
+    //[TestClass]
     public class CalculadoraTest
     {
 
